@@ -34,4 +34,4 @@ Find out who isn’t following you back on Instagram! This script is functional 
 4. The script will output a list of accounts who are not following you back.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
