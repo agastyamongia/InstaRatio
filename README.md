@@ -2,6 +2,8 @@
 
 Find out who isn’t following you back on Instagram! This script is functional as of August 2024.
 
+Update: take a look at who you aren't following back either!
+
 ## Set Up
 
 1. **Download Your Instagram Data:**
